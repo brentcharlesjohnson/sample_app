@@ -21,7 +21,7 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* This README file created on Tue Sep 16 23:05:01 PDT 2014
 
 
 Please feel free to use a different markup language if you do not plan to run
